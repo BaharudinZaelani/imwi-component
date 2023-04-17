@@ -1,3 +1,8 @@
+# Download SC ( no asset including ) and run
+- Download Source Code <a href="https://github.com/BaharudinZaelani/imwi-component/archive/refs/heads/master.zip">Download ZIP</a>
+- Run $composer update
+- Run Server $php spark serve
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
