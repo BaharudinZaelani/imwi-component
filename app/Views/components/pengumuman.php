@@ -5,7 +5,7 @@
 
     <div class="card-body">
         <h4 class="text-uppercase">pengumuman libur lebaran</h4>
-        <p>Sehubung dengan adanya libur hari raya odul fitri 144h, dengan ini diberitahukan pengumuman libur kepada seluruh Mahasiswa Institut Manajemen Wiyata
+        <p>Sehubung dengan adanya libur hari raya Idul Fitri 144H, dengan ini diberitahukan pengumuman libur kepada seluruh Mahasiswa Institut Manajemen Wiyata
             Indonesia bahwa :
         </p>
         <ul>
